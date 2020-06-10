@@ -6,6 +6,7 @@ namespace LearningGit
     {
         public void Init(){
             //DO Something
+            print"doing jobs"
         }
     }
 }
